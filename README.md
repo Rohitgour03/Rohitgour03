@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Rohit an aspiring Frontend Developer from India. I am learning the Javascipt currently and exploring the field of Web Development. I really like to build the layouts using HTML, CSS. Passionate about New technologies to learn and I am nothing without Sports. Singing, Reading books, learning new stuffs are some of my Hobbies. 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitgour03&layout=compact)](https://github.com/Rojhitgour03/github-readme-stats)
+
+
 <!--
 **Rohitgour03/Rohitgour03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
