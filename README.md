@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Rohit
+#### I am an aspiring Frontend Developer.
+![I am an aspiring Frontend Developer.](https://pbs.twimg.com/profile_banners/1161988604303831040/1630522240/1080x360)
 
-I am Rohit an aspiring Frontend Developer from India. 
-I am learning the Javascipt currently and exploring the field of Web Development. 
-I really like to build the layouts using HTML, CSS. 
-Passionate about New technologies to learn and I am nothing without Sports. 
-Singing, Reading books, learning new stuffs are some of my Hobbies. 
+I am Rohit, an aspiring Frontend Developer from India. I am learning Javascript currently and exploring the field of Web Development. I like to build layouts using HTML, CSS. Passionate about New technologies to learn.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitgour03&layout=compact)](https://github.com/Rojhitgour03/github-readme-stats)
+Skills: JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
 
 
 <!--
@@ -14,9 +16,9 @@ Singing, Reading books, learning new stuffs are some of my Hobbies.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Frontend Projects.
+- 🌱 I’m currently learning Javascipt.
+- 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
