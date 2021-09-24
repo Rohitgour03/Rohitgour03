@@ -1,5 +1,5 @@
 ## Hi there 👋 
-# My name is Rohit Gour
+# **My name is Rohit Gour**
 ### I am an aspiring Frontend Developer.
 ![I am an aspiring Frontend Developer.](https://github.com/Rohitgour03/Rohitgour03/blob/main/Blue%20and%20Yellow%20Technology%20LinkedIn%20Banner.png)
 
