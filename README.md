@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rohit
 #### I am an aspiring Frontend Developer.
-![I am an aspiring Frontend Developer.](https://pbs.twimg.com/profile_banners/1161988604303831040/1630522240/1080x360)
+![I am an aspiring Frontend Developer.](https://github.com/Rohitgour03/Rohitgour03/blob/main/Blue%20and%20Yellow%20Technology%20LinkedIn%20Banner.png)
 
 I am Rohit, an aspiring Frontend Developer from India. I am learning Javascript currently and exploring the field of Web Development. I like to build layouts using HTML, CSS. Passionate about New technologies to learn.
 
