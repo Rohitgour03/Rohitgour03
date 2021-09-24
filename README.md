@@ -5,8 +5,8 @@
 I am Rohit, an aspiring Frontend Developer from India. I am learning Javascript currently and exploring the field of Web Development. I like to build layouts using HTML, CSS. Passionate about New technologies to learn.
 
 Skills: 
-🚀 - JavaScript
-⚡ - HTML / CSS
+- 🚀 JavaScript
+- ⚡ HTML / CSS
 
 - 🔭 I’m currently working on Frontend Projects 
 - 🌱 I’m currently learning Javascript 
