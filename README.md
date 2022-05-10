@@ -4,6 +4,8 @@
 
 I am an aspiring Frontend Developer from India. I'm learning Javascript currently and exploring the field of Web Development. I like to build layouts using HTML, CSS. Passionate about New technologies to learn.
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitgour03)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills: 
