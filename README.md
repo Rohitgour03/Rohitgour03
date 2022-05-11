@@ -19,17 +19,20 @@ I enjoy building responsive, accessible, and amazing websites using basic web te
 
 <a href="#">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03&theme=midnight-purple&repo=github-readme-stats)" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" style="position:relative; top:100px;">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitgour03&layout=compact&theme=midnight-purple&repo=github-readme-stats)" />
-</a>
+</a>  
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03&theme=midnight-purple)
  -->
+ 
+ 
 ### Skills: 
 - 🚀 JavaScript
-- ⚡ HTML / CSS
+- ⚡ HTML / CSS  
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitgour03&layout=compact&theme=midnight-purple&repo=github-readme-stats)" />
+</a>
 
 ### Experience
 - 🔭 I’m currently working on Frontend Projects 
