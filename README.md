@@ -13,7 +13,7 @@ I enjoy building responsive, accessible, and amazing websites using basic web te
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitgour03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03)  
 
 ### Skills: 
 - 🚀 JavaScript
@@ -33,7 +33,7 @@ I enjoy building responsive, accessible, and amazing websites using basic web te
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03)  
+
 
 
 
