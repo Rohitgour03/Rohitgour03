@@ -11,9 +11,9 @@ I enjoy building responsive, accessible, and amazing websites using basic web te
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitgour03&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitgour03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitgour03&layout=compact&theme=midnight-purple))](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03&theme=midnight-purple))  
 
 ### Skills: 
 - 🚀 JavaScript
