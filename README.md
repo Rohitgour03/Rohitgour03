@@ -2,8 +2,9 @@
 
 # Hello I'm Rohit👋
 
-I am an aspiring Frontend Developer from India. I'm learning Javascript currently and exploring the field of Web Development. I like to build layouts using HTML, CSS. Passionate about New technologies to learn.
-
+I'm a Frontend Developer and aspiring Full Stack developer from Indore, India. I'm learning React currently and exploring the Modern Web Development. 
+I enjoy building responsive, accessible, and amazing websites using basic web technoligies and bring them to life. I enjoys the beautuful evening with Books plus Music and I am a Marvel fan and Yes I am developer who prefers tea over a coffee.
+ 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitgour03)](https://github.com/anuraghazra/github-readme-stats)
