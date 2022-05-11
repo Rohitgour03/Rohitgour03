@@ -26,6 +26,7 @@ I enjoy building responsive, accessible, and amazing websites using basic web te
  
  
 ### Skills: 
+- 🎉 ReactJS
 - 🚀 JavaScript
 - ⚡ HTML / CSS  
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
@@ -36,10 +37,11 @@ I enjoy building responsive, accessible, and amazing websites using basic web te
 
 ### Experience
 - 🔭 I’m currently working on Frontend Projects 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning ReactJS 
+- 🔥 I can build responsive, accessible static websites using HTML, CSS and Javascript.
 
 ### Projects 
-
+- I have completed 15+ challenges of Frontend Mentor
 
 ### Connect with me 
 
