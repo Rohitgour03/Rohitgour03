@@ -14,14 +14,19 @@ I enjoy building responsive, accessible, and amazing websites using basic web te
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitgour03&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rohitgour03&show_icons=true&theme=github_dark&repo=github-readme-stats)" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitgour03&layout=compact&theme=github-dark&repo=github-readme-stats)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohitgour03&show_icons=true&theme=midnight-purple&repo=github-readme-stats)" />
 </a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03&theme=midnight-purple)
+<a href="#">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03&theme=midnight-purple&repo=github-readme-stats)" />
+</a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats" style="position:relative; top:100px;">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitgour03&layout=compact&theme=midnight-purple&repo=github-readme-stats)" />
+</a>
+
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03&theme=midnight-purple)
+ -->
 ### Skills: 
 - 🚀 JavaScript
 - ⚡ HTML / CSS
