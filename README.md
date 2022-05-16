@@ -20,14 +20,14 @@ I enjoy building cool stuffs and I am developer who prefers tea over a coffee.
 
 
  ### Github Stats
- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rohitgour03&show_icons=true&theme=midnight-purple&repo=github-readme-stats)" />
 </a>
 <a href="#">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03&theme=midnight-purple&repo=github-readme-stats)" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitgour03&layout=compact&theme=midnight-purple&repo=github-readme-stats)" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitgour03&theme=midnight-purple&repo=github-readme-stats)" />
 </a>
 
 
