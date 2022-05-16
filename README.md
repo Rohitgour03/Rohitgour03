@@ -1,9 +1,22 @@
 ![I am an aspiring Frontend Developer.](https://github.com/Rohitgour03/Rohitgour03/blob/main/Blue%20and%20Yellow%20Technology%20LinkedIn%20Banner.png)
 
 # Hello I'm Rohit👋
+I am third year student persuing Electrical Engineering from Indian Institute of Technology, Dharwad. Also I'm a Frontend Developer and aspiring Full Stack developer from Indore, India, who is really passionate about learning and exploring new technologies. I'm learning React currently and exploring the Modern Web Development. 
+I enjoy building cool stuffs and I am developer who prefers tea over a coffee. 
 
-I'm a Frontend Developer and aspiring Full Stack developer from Indore, India. I'm learning React currently and exploring the Modern Web Development. 
-I enjoy building responsive, accessible, and amazing websites using basic web technoligies and bring them to life. I enjoys the beautuful evening with Books plus Music and I am a Marvel fan and Yes I am developer who prefers tea over a coffee.
+### About Me
+- 🎉 Frontend Developer from Indore, India.
+- 🚀 Currently Learning React.js and Building cool frontend projects
+- 😍 I enjoy building Frontend stuffs.
+- 🌞 My Evening = Reading an awesome book + Music
+- 😎 Yes, I am a Marvel Fan
+- 🤗 Always Ready to help someone
+- 💙 Let's become friends and Learn together
+
+### Skills 
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>       <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg"/>       <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
+
+
  
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -24,21 +37,11 @@ I enjoy building responsive, accessible, and amazing websites using basic web te
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03&theme=midnight-purple)
  -->
  
- 
-### Skills: 
-- 🎉 ReactJS
-- 🚀 JavaScript
-- ⚡ HTML / CSS  
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitgour03&layout=compact&theme=midnight-purple&repo=github-readme-stats)" />
 </a>
-
-### Experience
-- 🔭 I’m currently working on Frontend Projects 
-- 🌱 I’m currently learning ReactJS 
-- 🔥 I can build responsive, accessible static websites using HTML, CSS and Javascript.
 
 ### Projects 
 - I have completed 15+ challenges of Frontend Mentor
