@@ -1,13 +1,14 @@
 ![I am an aspiring Frontend Developer.](https://github.com/Rohitgour03/Rohitgour03/blob/main/Banner.png)
 
 # Hello I'm Rohit👋
-I am third year student persuing Electrical Engineering from Indian Institute of Technology, Dharwad. Also I'm a Frontend Developer and aspiring Full Stack developer from Indore, India, who is really passionate about learning and exploring new technologies. I'm learning React currently and exploring the Modern Web Development. 
+I am Final year student persuing Electrical Engineering from Indian Institute of Technology, Dharwad. Also I'm a Frontend Developer and aspiring Full Stack developer from Indore, India, who is really passionate about learning and exploring new technologies. I'm learning React currently and exploring the Modern Web Development. 
 I enjoy building cool stuffs and I am developer who prefers tea over a coffee. 
 
 
 ### About Me
 - 🎉 Frontend Developer from Indore, India.
-- 🚀 Currently Learning React.js and Building cool frontend projects
+- 🚀 Currently Learning Next.js and Building cool frontend projects
+- ✅ HTML | CSS | Javascript | ReactJS | NextJS | NodeJS | Express | MongoDB
 - 😍 I enjoy building Frontend stuffs.
 - 🌞 My Evening = Reading an awesome book + Music
 - 😎 Yes, I am a Marvel Fan
