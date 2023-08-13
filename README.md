@@ -2,7 +2,7 @@
 <img align="center" width="100%" height="auto" src="https://res.cloudinary.com/dbs7p9ck9/image/upload/v1684932919/Banner_b3yso9.png" alt="Banner Image" />
 
 # Hello I'm Rohit👋
-SDE Intern @Thrillophilia | IIT Dharwad | Passionate about Developing websites and learning new technologies
+SDE Intern @Thrillophilia | IIT Dharwad | Passionate about Developing websites and learning new technologies. </br>
 I'm a Frontend Developer and aspiring Full Stack developer from Indore, India who enjoys building cool projects. 
 
 
