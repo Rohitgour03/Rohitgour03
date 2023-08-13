@@ -17,28 +17,33 @@ I'm a Frontend Developer and aspiring Full Stack developer from Indore, India wh
 - 🤗 Always Ready to help someone
 - 💙 Let's become friends and learn together
 
+</br>
 
-### Skills 
-<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" />  <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" />  <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" />  <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />     <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg"/>               <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"/>          <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/> 
-
-
- ### Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohitgour03&show_icons=true&theme=midnight-purple&repo=github-readme-stats)" />
-</a>
+<!-- Languages stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitgour03&theme=midnight-purple&repo=github-readme-stats)" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03&theme=midnight-purple&repo=github-readme-stats)" />
-</a>
 
+### Skills 
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" /> <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" />                  <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" />      <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />                <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg"/>                 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg"/>       <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg"/>               <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg"/>    <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg"/>             <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/>
 
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg"/>   <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg"/>                             <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-original.svg"/>                 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"/>                               <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg"/>                         <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/>                         <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg"/> 
+
+</br>
 
 ### Connect with me 
+[<img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg' alt='linkedin' height='36' width='auto'>](https://www.linkedin.com/in/Rohitgour/) [<img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg' alt='twitter' height='36' width='auto'>](https://twitter.com/Rohitgour03) [<img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/codepen/codepen-plain.svg' alt='codepen' height='36' width='auto'>](https://codepen.io/Rohitgour03) 
 
-[<img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg' alt='twitter' height='40'>](https://twitter.com/Rohitgour03) [<img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Rohitgour/) [<img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/codepen/codepen-plain.svg' alt='codepen' height='40'>](https://codepen.io/Rohitgour03) 
- 
+</br>
+
+ ### Github Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="auto" height="200px" src="https://github-readme-stats.vercel.app/api?username=Rohitgour03&show_icons=true&theme=midnight-purple&repo=github-readme-stats)" /> 
+</a> 
+<a href="#">
+  <img align="center" width="auto" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03&theme=midnight-purple&repo=github-readme-stats)" />
+</a>
+
  
  
  
