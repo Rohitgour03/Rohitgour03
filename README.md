@@ -38,10 +38,10 @@ I'm a Frontend Developer and aspiring Full Stack developer from Indore, India wh
 
  ### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="auto" height="180px" src="https://github-readme-stats.vercel.app/api?username=Rohitgour03&show_icons=true&theme=midnight-purple&repo=github-readme-stats)" /> 
+  <img align="left" width="390px" height="auto" src="https://github-readme-stats.vercel.app/api?username=Rohitgour03&show_icons=true&theme=midnight-purple&repo=github-readme-stats)" /> 
 </a> 
 <a href="#">
-  <img align="right" width="auto" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03&theme=midnight-purple&repo=github-readme-stats)" />
+  <img align="right" width="390px" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitgour03&theme=midnight-purple&repo=github-readme-stats)" />
 </a>
 
  
